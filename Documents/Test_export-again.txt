@@ -1,0 +1,5 @@
+Nutrient Goals:
+Calories: 2668.0/3308.4
+Protein: 3.0/248.1 grams
+Carbs: 646.0/372.2 grams
+Fats: 8.0/91.9 grams
